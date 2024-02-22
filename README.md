@@ -4,9 +4,13 @@
   1. Install node.js
   2. Install npm using npm install
   3. Install dependencies
+     
       npm install supertest --save-dev
+     
       npm install mocha --save-dev
-      npm i chai@4.3.10 --save-dev  
+     
+      npm i chai@4.3.10 --save-dev
+     
   4. run command for run API Automation npm run test:mocha
 
 # Mochawesome Report
